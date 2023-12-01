@@ -1,1 +1,1 @@
-# examtantra
+The goal of this exam management system is to make it easier to administer exams and to create a convenient and easy-to-use application for teachers who are attempting to administer exams. The system is built around a relational database with result management capabilities. There is a question bank with ten unique questions, their options, and the correct answer, as well as a variable number of students and their information. The aim is to provide a pleasant and trustworthy user experience in addition to getting student results.
